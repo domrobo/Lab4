@@ -86,4 +86,8 @@ pom.xml                     # Конфігурація Maven
 
 
 
+https://github.com/user-attachments/assets/709f516f-1d1c-4b4c-9b67-88df8969ba7c
+
+
+
 
